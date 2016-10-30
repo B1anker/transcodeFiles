@@ -25,7 +25,7 @@ cd ~/transcodeFiles
 npm install
 ```
 
-Once you finish the procedures, ***move your source folder into the transcodeFiles folder***, and keep entering the following command in the terminal window to run it:
+Once you finish the procedures, ***move your source folder into the transcodeFiles folder***, and keep entering your folder's name and the following command in the terminal window to run it:
 
 ```shell
 node app.js
