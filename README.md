@@ -2,7 +2,7 @@ transcodeFiles
 ----------------
 This repository is aimed to transcode files from supported code to `'UTF-8'`
 
-supported operate system
+Supported operating systems
 ----------------
 *Only MacOS is supported or liunx.*
 
